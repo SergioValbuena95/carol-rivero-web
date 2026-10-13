@@ -1,0 +1,75 @@
+{
+  "nav": { "label": "Main", "areas": "Support areas", "about": "About", "process": "Process", "plans": "Plans", "book": "Book" },
+  "cta": { "book": "Book a consultation", "approach": "See my approach" },
+  "hero": {
+    "kicker": "Clinical psychology",
+    "l1": "A space", "l2": "to hear", "l3": "yourself again.",
+    "lead": "Psychological support to understand what you are going through, strengthen your emotional resources and build meaningful change in your life.",
+    "photoAlt": "Placeholder for Carol Rivero's photo"
+  },
+  "statement": { "title": "No process, no transformation.", "text": "A safe space to focus on yourself, learn and grow stronger, working together as a team." },
+  "areas": {
+    "title": "What are you going through?",
+    "intro": "Choose what feels closest to where you are right now.",
+    "list": [
+      { "title": "Anxiety", "items": ["Excessive worry and overthinking", "Imagining catastrophic scenarios", "Intense physical symptoms", "Insomnia"] },
+      { "title": "Self-esteem", "items": ["Negative thoughts about yourself", "Fear of failure", "Difficulty making decisions", "Insecurity in romantic relationships", "Difficulty setting boundaries"] },
+      { "title": "Emotional difficulties", "items": ["Difficulty expressing emotions", "Not understanding what you feel", "Poor anger control", "Difficulty managing emotions"] },
+      { "title": "Emotional dependence", "text": "A space to understand your relationships and work on them with concrete tools." },
+      { "title": "Migration grief", "text": "Support for the experience of leaving a place behind and starting over." }
+    ]
+  },
+  "about": {
+    "title": "I'm Carol Rivero",
+    "text": "Clinical psychologist and therapist specialized in mental health and emotional well-being. My approach is integrative: I combine Cognitive-Behavioral Therapy with Emotion-Focused Therapy to give you coping tools and work toward meaningful results.",
+    "education": { "label": "Education", "value": "Universidad de Investigación de Bucaramanga, Colombia" },
+    "experience": { "label": "Experience", "value": "Individual therapy, couples therapy and group processes" },
+    "approach": { "label": "Approach", "value": "Cognitive-Behavioral Therapy and Emotion-Focused Therapy" },
+    "license": { "label": "Professional license", "value": "T.P. 205232" }
+  },
+  "approach": {
+    "title": "My approach",
+    "steps": [
+      { "title": "Understand", "text": "Identify the thoughts, emotions and patterns that matter for your process." },
+      { "title": "Work", "text": "Develop coping tools and work on your therapeutic goals." },
+      { "title": "Transform", "text": "Build changes and tools you can bring into your everyday life." }
+    ]
+  },
+  "process": {
+    "title": "How does the process work?",
+    "steps": [
+      { "title": "First session", "text": "Get to know your situation and set therapeutic goals." },
+      { "title": "Therapeutic work", "text": "Sessions shaped around the needs and goals of your process." },
+      { "title": "Between sessions", "text": "Materials and activities to complement what we work on in session." },
+      { "title": "Follow-up", "text": "Feedback sessions to review progress and readjust goals when needed." }
+    ]
+  },
+  "plans": {
+    "title": "Support plans",
+    "intro": "Each session lasts 1 hour. Accessible, flexible schedules based on availability.",
+    "sessions": "{n} session | {n} sessions",
+    "total": "Total investment",
+    "choose": "Choose this plan",
+    "payment": "Payment methods: Bancolombia · Nequi. Payment details are sent when your booking is confirmed.",
+    "included": ["Materials to complement what is worked on in session", "Activities to work on outside each session", "WhatsApp support for brief questions between sessions", "Feedback sessions to readjust goals"]
+  },
+  "practical": {
+    "tipsTitle": "To make the most of your session",
+    "tips": ["Find a private, quiet place.", "Avoid interruptions.", "Make sure you are comfortable."],
+    "bookTitle": "How to book",
+    "book1": "Sessions are scheduled based on both parties' availability.",
+    "book2": "To confirm your appointment, pay in advance and send the payment receipt."
+  },
+  "contact": {
+    "title": "Shall we begin your process?",
+    "text": "A safe space to work on what you need today. You are one message away from giving yourself the care you deserve.",
+    "whatsapp": "Book via WhatsApp",
+    "waMessage": "Hi Carol, I would like to book a consultation."
+  },
+  "footer": { "role": "Clinical psychologist" },
+  "seo": {
+    "title": "Clinical psychologist",
+    "description": "Psychological support to understand what you are going through and build meaningful change. Anxiety, self-esteem, emotional dependence and more.",
+    "jobTitle": "Clinical psychologist"
+  }
+}

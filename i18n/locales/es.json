@@ -1,0 +1,75 @@
+{
+  "nav": { "label": "Principal", "areas": "Acompañamiento", "about": "Sobre mí", "process": "Proceso", "plans": "Planes", "book": "Agendar" },
+  "cta": { "book": "Agendar una consulta", "approach": "Conocer mi enfoque" },
+  "hero": {
+    "kicker": "Psicología clínica",
+    "l1": "Un espacio", "l2": "para volver", "l3": "a escucharte.",
+    "lead": "Acompañamiento psicológico para comprender lo que estás viviendo, fortalecer tus recursos emocionales y construir cambios significativos en tu vida.",
+    "photoAlt": "Espacio para la fotografía de Carol Rivero"
+  },
+  "statement": { "title": "Sin proceso no hay transformación.", "text": "Un espacio seguro para enfocarte en ti, aprender y fortalecerte, trabajando en equipo." },
+  "areas": {
+    "title": "¿Qué estás viviendo?",
+    "intro": "Elige lo que más se parezca a tu momento actual.",
+    "list": [
+      { "title": "Ansiedad", "items": ["Preocupación excesiva y sobrepensar", "Imaginar escenarios catastróficos", "Síntomas físicos intensos", "Insomnio"] },
+      { "title": "Autoestima", "items": ["Pensamientos negativos sobre ti", "Miedo al fracaso", "Dificultad para tomar decisiones", "Inseguridades en relaciones amorosas", "Dificultad para poner límites"] },
+      { "title": "Dificultades emocionales", "items": ["Dificultad para expresar emociones", "No entender lo que sientes", "Poco control de la ira", "Dificultad para manejar las emociones"] },
+      { "title": "Dependencia emocional", "text": "Un espacio para entender tus vínculos y trabajarlos con herramientas concretas." },
+      { "title": "Duelo por migración", "text": "Acompañamiento para transitar lo que implica dejar atrás un lugar y empezar de nuevo." }
+    ]
+  },
+  "about": {
+    "title": "Soy Carol Rivero",
+    "text": "Psicóloga clínica y terapeuta especializada en salud mental y bienestar emocional. Mi enfoque es integrador: combino la Terapia Cognitivo-Conductual con la Terapia Focalizada en Emociones para brindarte herramientas de afrontamiento y trabajar hacia resultados significativos.",
+    "education": { "label": "Formación", "value": "Universidad de Investigación de Bucaramanga, Colombia" },
+    "experience": { "label": "Experiencia", "value": "Procesos individuales, terapia de pareja y procesos grupales" },
+    "approach": { "label": "Enfoque", "value": "Terapia Cognitivo-Conductual y Terapia Focalizada en Emociones" },
+    "license": { "label": "Tarjeta profesional", "value": "T.P. 205232" }
+  },
+  "approach": {
+    "title": "Mi enfoque",
+    "steps": [
+      { "title": "Comprender", "text": "Identificar pensamientos, emociones y patrones relevantes para el proceso." },
+      { "title": "Trabajar", "text": "Desarrollar herramientas de afrontamiento y trabajar sobre los objetivos terapéuticos." },
+      { "title": "Transformar", "text": "Construir cambios y herramientas que puedas integrar a tu día a día." }
+    ]
+  },
+  "process": {
+    "title": "¿Cómo funciona el proceso?",
+    "steps": [
+      { "title": "Primera sesión", "text": "Conocer tu situación y establecer objetivos terapéuticos." },
+      { "title": "Trabajo terapéutico", "text": "Sesiones orientadas a las necesidades y objetivos de tu proceso." },
+      { "title": "Entre sesiones", "text": "Material y actividades para complementar lo trabajado en consulta." },
+      { "title": "Seguimiento", "text": "Sesiones de retroalimentación para evaluar avances y reajustar objetivos cuando sea necesario." }
+    ]
+  },
+  "plans": {
+    "title": "Planes de acompañamiento",
+    "intro": "Cada sesión dura 1 hora. Horarios accesibles y flexibles según disponibilidad.",
+    "sessions": "{n} sesión | {n} sesiones",
+    "total": "Inversión total",
+    "choose": "Elegir este plan",
+    "payment": "Métodos de pago: Bancolombia · Nequi. Los datos para realizar el pago se envían al confirmar la reserva.",
+    "included": ["Material para complementar lo trabajado en la sesión", "Actividades para trabajar fuera de cada sesión", "Acompañamiento por WhatsApp para dudas breves entre sesiones", "Sesiones de retroalimentación para reajustar objetivos"]
+  },
+  "practical": {
+    "tipsTitle": "Para aprovechar tu consulta",
+    "tips": ["Busca un lugar privado y tranquilo.", "Evita interrupciones.", "Procura estar cómoda o cómodo."],
+    "bookTitle": "Cómo reservar",
+    "book1": "Las sesiones se agendan según la disponibilidad de ambas partes.",
+    "book2": "Para confirmar tu cita, realiza el pago con anticipación y envía el comprobante."
+  },
+  "contact": {
+    "title": "¿Comenzamos tu proceso?",
+    "text": "Un espacio seguro para trabajar en aquello que hoy necesitas. Estás a un mensaje de darte el cuidado que mereces.",
+    "whatsapp": "Agendar por WhatsApp",
+    "waMessage": "Hola Carol, me gustaría agendar una consulta."
+  },
+  "footer": { "role": "Psicóloga clínica" },
+  "seo": {
+    "title": "Psicóloga clínica",
+    "description": "Acompañamiento psicológico para comprender lo que estás viviendo y construir cambios significativos. Ansiedad, autoestima, dependencia emocional y más.",
+    "jobTitle": "Psicóloga clínica"
+  }
+}
